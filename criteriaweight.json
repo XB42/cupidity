@@ -1,0 +1,24 @@
+{
+    "Email": 0,
+    "Date of birth": 6,
+    "Nationality": 3,
+    "Your height": 8,
+    "How would you describe your personality? (Check all that apply)": 4,
+    "What are your hobbies and interests? (Check all that apply)":4 ,
+    "Tell us about your hobbies:": 4,
+    "What are your favorite types of music or artists?": 2,
+    "Do you have any dietary preferences or restrictions?": 7,
+    "What are you looking for in a partner? (Check all that apply)": 9,
+    "Explain what kind of relationship you want:": 9,
+    "Do you have a preference for your partner's age range?": 6,
+    "Do you have a preference for your partner's ethnicity?": 9,
+    "What is your current relationship status?": 0,
+    "What is your occupation?": 7,
+    "How important are shared cultural or religious values to you?": 8,
+    "Do you have a preference for your partner's religion?(Specify if Yes)": 5,
+    "Do you have any pets? If yes, please specify.":2 ,
+    "Do you smoke?": 5,
+    "Do you drink alcohol?":5 ,
+    "What is a fun fact about yourself?": 2
+}
+
